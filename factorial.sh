@@ -1,4 +1,4 @@
-#!/bin/bash  
+#!/bin/bash   
 
 # Function to calculate factorial
 factorial() {
