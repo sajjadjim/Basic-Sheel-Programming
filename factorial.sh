@@ -1,6 +1,6 @@
 #!/bin/bash   
 
-# Function to calculate factorial
+# Function to calculate factorial 
 factorial() {
     local num=$1
     fact=1
