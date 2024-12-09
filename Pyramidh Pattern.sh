@@ -1,5 +1,5 @@
 #!/bin/bash   
-
+ 
 # Main script to print pyramid pattern
 read -p "Enter the number of rows N: " N
 
